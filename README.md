@@ -1,4 +1,4 @@
-### This is my first Python project - started at Riverside Community College - class CIS-30A 👋
+### This is my second GitHub.👋
 
 Here are some ideas to get you started:
 
