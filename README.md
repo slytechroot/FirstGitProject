@@ -8,9 +8,9 @@ https://www.youtube.com/
 
 
 - 🔭 I've worked on my first Python project.
-- 🌱 
-- 👯 
-- 🤔 
+- 🌱 WhiteKnightLabs - Advanced Red Teaming Operator course
+- 👯 WhiteKnightLabs - Offensive Development course
+- 🤔 WhiteKnightLabs - Offensive Azure
 - 💬 Ask me about: <something>
 - 📫 How to reach me: <don't>
 - 
