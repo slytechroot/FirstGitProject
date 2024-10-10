@@ -15,3 +15,19 @@ https://www.youtube.com/
 - 📫 How to reach me: <don't>
 - 
 -->
+###################################################
+
+Open Source Security Tools
+    Check my https://GitHub.com/slytechroot
+    
+Certifications
+    A+
+    Network+
+    Security+
+    CySA+
+    OSCP
+    MCSE (2003)
+    SSCP
+    CCSP
+    WhiteKnightLabs - Advanced Red Teaming Operator, Offensive Azure, Offensive Development
+
