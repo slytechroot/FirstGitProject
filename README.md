@@ -18,16 +18,18 @@ Here are some ideas to get you started:
 ###################################################
 
 Open Source Security Tools
-    Check my https://GitHub.com/slytechroot
+    - Check my https://GitHub.com/slytechroot
     
 Certifications
-    A+
-    Network+
-    Security+
-    CySA+
-    OSCP
-    MCSE (2003)
-    SSCP
-    CCSP
-    WhiteKnightLabs - Advanced Red Teaming Operator, Offensive Azure, Offensive Development
+   - A+
+   - Network+
+   - Security+
+   - CySA+
+   - OSCP
+   - MCSE (2003)
+   - SSCP
+   - CCSP
+   - WhiteKnightLabs - Advanced Red Teaming Operator
+   - WhiteKnightLabs - Offensive Azure
+   - WhiteKnightLabs - Offensive Development
 
