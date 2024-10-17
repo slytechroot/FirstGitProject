@@ -1,5 +1,9 @@
 ### This is my second GitHub.👋
 
+The scripts you will find in my repos have been gathered over the years for eventual usage in projects, labs, POCs, POVs, pentests, etc. Please use caution and remember - it is YOUR responsibility to READ the code before you execute them and you decide how you use them.
+Scripts and articles date back to Windows 2000-XP days, so they are not the most modern, so improving them is your responsibility. 
+
+
 Here are some ideas to get you started:
 - 🔭 I'm currently working on my SANS SEC699 course and labs <BR>
 -  Follow me on Your Tube for quick lessons:<BR>
