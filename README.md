@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 👯 WhiteKnightLabs - Offensive Development course (in progress)
 - 🤔 WhiteKnightLabs - Offensive Azure (in progress)
 - 💬 Ask me about: <something>
-- 📫 How to reach me: <sign up for my small YouTube channel>
+- 📫 How to reach me: sign up for my small YouTube channel.
 - 
 -->
 ###################################################
