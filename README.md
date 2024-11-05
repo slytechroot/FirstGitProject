@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 
 - 🔭 I've worked on my first Python project.
 - 🌱 WhiteKnightLabs - Advanced Red Teaming Operator course
-- 👯 WhiteKnightLabs - Offensive Development course
-- 🤔 WhiteKnightLabs - Offensive Azure
+- 👯 WhiteKnightLabs - Offensive Development course (in progress)
+- 🤔 WhiteKnightLabs - Offensive Azure (in progress)
 - 💬 Ask me about: <something>
 - 📫 How to reach me: <don't>
 - 
