@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about: <something>
 - 📫 How to reach me: sign up for my small YouTube channel.
 - 
--->
