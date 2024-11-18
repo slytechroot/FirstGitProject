@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 
 - Just completed:
-- https://redteam-training.thinkific.com
-- Social Engineering Expert - http://www.youtube.com/@redteamtraining9277
+  1) Social Engineering Expert - https://redteam-training.thinkific.com - http://www.youtube.com/@redteamtraining9277
+  2) 
