@@ -4,8 +4,8 @@ The scripts you will find in my repos have been gathered over the years for even
 Scripts and articles date back to Windows 2000-XP days, so they are not the most modern, so improving them is your responsibility. 
 
 - Just completed:
-https://redteam-training.thinkific.com
-Social Engineering Expert - http://www.youtube.com/@redteamtraining9277
+- https://redteam-training.thinkific.com
+- Social Engineering Expert - http://www.youtube.com/@redteamtraining9277
 
 Here are some ideas to get you started:
 - 🔭 I'm currently working on my SANS SEC699 course and labs <BR>
