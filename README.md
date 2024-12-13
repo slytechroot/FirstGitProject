@@ -3,14 +3,15 @@
 The scripts in my repos have been gathered over the years during projects, labs, POCs, POVs, pentests, etc. <BR> Please use caution and remember - I am making it YOUR responsibility to READ the code before you execute them and you decide how you use them.<BR> Scripts and articles date back to Windows 2000-XP days, so they are not the most modern, so improving them is your responsibility. 
 
 What projects I have going on these days:
-- 🔭 I'm currently working on my SANS SEC699 course and labs <BR>
--  Follow me on YouTube for quick lessons:<BR>
+- Enterprise Attack Initial Access <BR>
+- Learning Terraform <BR>
+- Follow me on YouTube for quick lessons:<BR>
 [(https://www.youtube.com/@InfoSecEngineer)](https://www.youtube.com/@InfoSecEngineer)
 
 
-
-- 🔭 Learning Terraform, Ansible and Jenkins are next.
-- 🌱 
+NEXT:
+- 🔭 Ansible
+- 🌱 Jenkins
 - 👯 
 - 🤔 Ask me about: <something>
 - 💬 
