@@ -5,6 +5,7 @@ The scripts in my repos have been gathered over the years during projects, labs,
 What I do for fun these days:
 - Having fun with Enterprise Attack Initial Access for Offensive Security<BR>
 - Having fun with Terraform for cloud infrastructure automation<BR>
+- 
 
 <BR><BR>
 NEXT on my list but very much depending on future work responsibilities:
