@@ -9,17 +9,20 @@ What I do for fun these days:
 
 <BR><BR>
 NEXT on my list but very much depending on future work responsibilities:
-- 🔭 Ansible
-- 🌱 Jenkins
-- 👯 
-- 🤔 
+- 🔭 Microsoft AZ104 training and AZ500
+- 🌱 AWS?
+
 - 💬 Follow me on YouTube for quick lessons:<BR>
 [(https://www.youtube.com/@InfoSecEngineer)](https://www.youtube.com/@InfoSecEngineer)
-- 📫 Ask me about anything or just reach me: informationseceng@gmail.com 
+- 📫 Ask me about anything or just reach me: informationseceng@gmail.com
+
+<BR><BR>
+Backlog:
+- 👯 Jenkins ?
+- 🤔 Ansible ?
 
 <BR><BR>
 Completed in 2024:
   1) I've worked on my first Python project.
   2) Social Engineering Expert - https://redteam-training.thinkific.com - http://www.youtube.com/@redteamtraining9277
   3) WhiteKnightLabs - Advanced Red Teaming Operator course.
-  4) 
