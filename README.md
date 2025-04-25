@@ -1,6 +1,6 @@
 ### This is my second GitHub.👋
 
-The scripts in my repos have been gathered over the years during projects, labs, POCs, POVs, pentests, etc. <BR> Please use caution and remember - I am making it YOUR responsibility to READ the code before you execute them and you decide how you use them.<BR> Scripts and articles date back to Windows 2000-XP days, so they are not the most modern, so improving them is your responsibility. 
+<BR> Please use caution and remember - I am making it YOUR responsibility to READ the code before you execute them and you decide how you use them.<BR> Scripts and articles date back to Windows 2000-XP days, so they are not the most modern, so improving them is your responsibility. 
 <BR><BR>
 What I do for fun these days:
 - Having fun with Enterprise Attack Initial Access for Offensive Security<BR>
