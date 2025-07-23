@@ -1,6 +1,6 @@
 ### Welcome ### 👋
 
-<BR> Please use caution when running the scripts in this repo. Some of them are gathered from the Internet and have not been fully tested for production. I am making it YOUR responsibility to READ the code before you execute it and you decide how you use it.<BR> Some scripts and articles date back to Windows 2000-XP days, so they are not the most modern; improving them is your responsibility. 
+<BR> Please use caution when running the scripts in this repo. Some of them are gathered from the Internet and have not been fully tested for production. <BR> Some scripts and articles date back to Windows 2000-XP days, so they are not the most modern; improving them is your responsibility. 
 <BR><BR>
 What I do for fun these days:
 - TryHackMe training and machines
