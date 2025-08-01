@@ -4,12 +4,14 @@
 <BR><BR>
 What I do for fun these days:
 - TryHackMe training and machines
-- Having fun with Enterprise Attack Initial Access for Offensive Security<BR>
-- Having fun with Terraform for cloud infrastructure automation<BR>
+- Quick stop for a refresher of Windows and Linux log reading
+- 👯 Jenkins Raspberry PI setup for CloudSecDevOps
 - 
 
 <BR><BR>
 NEXT on my list but very much depending on future work responsibilities:
+- ...
+- ...
 - 🔭 Microsoft AZ104 training and AZ500
 - 🌱 AWS?
 
@@ -19,8 +21,9 @@ NEXT on my list but very much depending on future work responsibilities:
 
 <BR><BR>
 Backlog:
-- 👯 Jenkins ?
 - 🤔 Ansible ?
+- Having fun with Enterprise Attack Initial Access for Offensive Security<BR>
+- Having fun with Terraform for cloud infrastructure automation<BR>
 
 <BR><BR>
 Completed in 2024:
