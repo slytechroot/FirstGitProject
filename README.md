@@ -3,7 +3,7 @@
 <BR> Please use caution when running the scripts in this repo. Some of them are gathered from the Internet and have not been fully tested for production. <BR> Some scripts and articles date back to Windows 2000-XP days, so they are not the most modern; improving them is your responsibility. 
 <BR><BR>
 What I do for fun these days:
-- TryHackMe training and machines
+- TryHackMe training and machines <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1985059" style='border:none;'></iframe>
 - Quick stop for a refresher of Windows and Linux log reading
 - 👯 Jenkins Raspberry PI setup for CloudSecDevOps
 - 
