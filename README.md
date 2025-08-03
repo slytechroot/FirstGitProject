@@ -4,7 +4,7 @@
 <BR><BR>
 What I do for fun these days:
 - TryHackMe training and machines https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1985059
-- Quick stop for a refresher of Windows and Linux log reading
+- Quick stop for a refresher of Windows and Linux log reading - Foundations of Log Analysis for Cyber Defense - https://redteamleaders.coursestack.com/courses/5ba830c2-0137-431a-8619-4370fc325b22
 - 👯 Jenkins Raspberry PI setup for CloudSecDevOps
 - 
 
