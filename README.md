@@ -2,7 +2,7 @@
 
 <BR> My repo for things of interest I have fun with. <BR> 
 
-What I do for fun these days:<BR>
+IN PROGRESS<BR>
 - Training in Cloud DevOps and Cloud DevSecOPS
     - SEC540: Cloud Native Security and DevSecOps Automation
     - Version Control - GitLab, GitHub, SVN
