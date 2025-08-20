@@ -1,7 +1,7 @@
 ### Welcome ### 👋
 
 <BR> My repo for things of interest I have fun with. <BR> 
-Some scripts and articles date back to Windows 2000-XP days, so they are not the most modern; improving them is your responsibility. <BR>
+
 What I do for fun these days:<BR>
 - Training in Cloud DevOps and Cloud DevSecOPS
     - SEC540: Cloud Native Security and DevSecOps Automation
