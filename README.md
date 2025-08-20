@@ -1,7 +1,7 @@
 ### Welcome ### 👋
 
-<BR>
-What I do for fun these days:
+<BR> Please use caution when running some of the scripts in this repo. Some of them are gathered from the Internet and have not been fully tested for production. <BR> Also, some scripts and articles date back to Windows 2000-XP days, so they are not the most modern; improving them is your responsibility. <BR>
+What I do for fun these days:<BR>
 - Training in Cloud DevOps and Cloud DevSecOPS
     - SEC540: Cloud Native Security and DevSecOps Automation
     - Version Control - GitLab, GitHub, SVN
