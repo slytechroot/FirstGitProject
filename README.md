@@ -1,20 +1,20 @@
 🌟 Hey there, I’m Sly!
 
 🚀 About Me<BR>
-💻 CyberSecurity engineer with a passion for IT, scripting, hacking, building, automation, self-improvement and saving code, texts, books, and much more. Oh yeah, I am supposed to say ... coffee enthusiast ☕
+CyberSecurity engineer with a passion for IT, scripting, hacking, building, automation, self-improvement and saving code, texts, books, and much more. Oh yeah, I am supposed to say ... coffee enthusiast ☕
 
 🎨 I love turning ideas into pixels + code
 
 🌍 Always learning something new — currently diving into:👋
 - Training in Cloud DevOps and Cloud DevSecOPS
-    - SEC540: Cloud Native Security and DevSecOps Automation
+    - SEC540: Cloud Native Security and DevSecOps Automation 
     - Version Control - GitLab, GitHub, SVN
     - 
 - 👯 Jenkins Raspberry PI setup for CloudSecDevOps
 - Foundations of Log Analysis for Cyber Defense - https://redteamleaders.coursestack.com/courses/5ba830c2-0137-431a-8619-4370fc325b22
 
 🎮 Fun fact: I probably spend more time customizing my dev setup than gaming 🎮
-
+💻 
 🛠️ Tech Toolbox
 📊 GitHub Stats
 🎉 Fun Stuff
