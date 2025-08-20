@@ -27,10 +27,9 @@ CyberSecurity engineer with a passion for IT, scripting, hacking, building, auto
 - 📫 Ask me about anything or just reach me: informationseceng@gmail.com
 
 <BR><BR>
-Backlog:
+On hold:
 - 🤔 Ansible ?
 - Having fun with Enterprise Attack Initial Access for Offensive Security<BR>
-- Having fun with Terraform for cloud infrastructure automation<BR>
 - 🔭 Microsoft AZ104 training and AZ500
 - 🌱 AWS?
 
