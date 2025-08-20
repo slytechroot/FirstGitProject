@@ -1,6 +1,6 @@
 ### Welcome ### 👋
 
-<BR><BR>
+<BR>
 What I do for fun these days:
 - Training in Cloud DevOps and Cloud DevSecOPS
     - SEC540: Cloud Native Security and DevSecOps Automation
