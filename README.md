@@ -4,6 +4,9 @@
 <BR><BR>
 What I do for fun these days:
 - Training in Cloud DevOps and Cloud DevSecOPS
+    - SEC540: Cloud Native Security and DevSecOps Automation
+    - Version Control - GitLab, GitHub, SVN
+    - 
 - 👯 Jenkins Raspberry PI setup for CloudSecDevOps
 - Foundations of Log Analysis for Cyber Defense - https://redteamleaders.coursestack.com/courses/5ba830c2-0137-431a-8619-4370fc325b22
 - TryHackMe training and machines https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1985059
